@@ -1026,7 +1026,7 @@
     	{
        		"name": "Anycubic PLA @Anycubic Kobra S1 Max 0.8 nozzle",
       		"sub_path": "filament/Anycubic PLA @Anycubic Kobra S1 Max 0.8 nozzle.json"
-`		},
+	},
     	{
     		"name": "Anycubic PETG @Anycubic Kobra S1 Max 0.8 nozzle",
     		"sub_path": "filament/Anycubic PETG @Anycubic Kobra S1 Max 0.8 nozzle.json"
